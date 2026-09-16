@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm OldYoung
 
-<!--
-**OldyoungCN/OldYoungCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo indie game developer.
 
-Here are some ideas to get you started:
+I mostly use Godot and like experimenting with small games,
+AI-assisted development and unusual ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Project
+
+🀄 Happy Two-Player Mahjong
+
+A two-player Mahjong game for Windows.
+
+## Other Games
+
+🐸 Muscle Frog: Forest Quest
+
+## What I'm interested in
+
+- Godot
+- Indie game development
+- Game AI
+- Small experimental games
+- AI-assisted development
